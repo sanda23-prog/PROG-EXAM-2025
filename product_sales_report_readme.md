@@ -1,4 +1,5 @@
-# Product Sales Report - 2025
+# Product Sales Report - 2025 question 1 past paper
+
 
 ## Overview
 This is a simple Java console application designed to process and report on product sales data for a local retail company. It analyzes quarterly sales data spanning a two-year period using two-dimensional arrays for data storage and single-dimensional arrays for formatting the final report.
